@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\AppChat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\source\repos\AppChat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\source\repos\AppChat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\source\repos\AppChat\bin\Debug\netcoreapp3.1\AppChat.exe
+C:\Users\ASUS\source\repos\AppChat\obj\Debug\netcoreapp3.1\AppChat.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AppChat\obj\Debug\netcoreapp3.1\AppChat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AppChat\obj\Debug\netcoreapp3.1\AppChat.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AppChat\obj\Debug\netcoreapp3.1\AppChat.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AppChat\obj\Debug\netcoreapp3.1\AppChat.RazorTargetAssemblyInfo.cache
